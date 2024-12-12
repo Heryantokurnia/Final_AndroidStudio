@@ -6,4 +6,5 @@ aplikasi mp3 player ini membantu pengguna menikmati lagu secara offline tanpa pu
 ## Mockup
 ![image](https://github.com/user-attachments/assets/27671f74-a801-4042-8160-d7f47572fd12)
 ## UI/UX
-![image](https://github.com/user-attachments/assets/374e42e6-07dd-4ee0-be05-083a3bf80512)
+![image](https://github.com/user-attachments/assets/f911ee35-b171-415e-8f4c-cabde6788082)
+
